@@ -4,8 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import xyz.logicsol.sdk.ToasterMessage;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
